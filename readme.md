@@ -21,3 +21,11 @@
 [부산대학교 SW Start-Up 창업 장학금 수혜자 인터뷰](https://youtu.be/2yJR7IImO2M)
 
 [부산대학교 SW Start-up 프로그램 참가자 모집공고 PDF 다운로드](http://cse.pusan.ac.kr/bbs/cse/2605/684119/download.do)
+
+<h2>오픈소스 SW 경진대회</h2>
+
+[제2회 PNU 오픈소스 SW 경진대회 수상자 인터뷰](https://youtu.be/VhREfG0jLSo)
+
+<h2>창의융합 SW 해커톤 대회</h2>
+
+[제3회 창의융합 SW 해커톤 대회](https://youtu.be/EfEgTrm5_u4)
