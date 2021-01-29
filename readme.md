@@ -1,5 +1,13 @@
 <h1>부산대학교 프로그래밍 스터디 21</h1>
 
+<h2>사전 준비</h2>
+
+[구글 회원가입](https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp)
+
+[Github 회원가입](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+
+[Trello 회원가입](https://trello.com/signup)
+
 <h2>스터디 진행법</h2>
 
 [스터디 모임 방법 몇 가지](http://egloos.zum.com/agile/v/5830026)
