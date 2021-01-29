@@ -5,3 +5,5 @@
 [개발자 질문, "스터디 운영 어떻게 해야하죠?"] https://youtu.be/RdTpUfm2hSo
 
 [JavaScript - 생활코딩] https://youtu.be/PZIPsKgWJiw
+
+[부산대학교 SW 마일스톤 장학금 수혜자 인터뷰] https://youtu.be/LSjNw8wrXhc
