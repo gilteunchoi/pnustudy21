@@ -1,5 +1,7 @@
 <h1>부산대학교 프로그래밍 스터디 21</h1>
 
+[트렐로 바로가기](https://trello.com/b/a7mtkgg7/%EC%8A%A4%ED%84%B0%EB%94%94)
+
 <h2>사전 준비</h2>
 
 [구글 회원가입](https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp)
