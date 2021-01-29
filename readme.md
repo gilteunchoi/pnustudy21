@@ -18,6 +18,6 @@
 
 <h2>SW Start-Up 창업 장학금</h2>
 
-[PNU SW Start-Up 창업 장학금 수혜자 인터뷰](https://youtu.be/2yJR7IImO2M)
+[부산대학교 SW Start-Up 창업 장학금 수혜자 인터뷰](https://youtu.be/2yJR7IImO2M)
 
-[부산대학교 SW Start-up 프로그램 참가자 모집공고](http://cse.pusan.ac.kr/bbs/cse/2605/684119/download.do)
+[부산대학교 SW Start-up 프로그램 참가자 모집공고 PDF 다운로드](http://cse.pusan.ac.kr/bbs/cse/2605/684119/download.do)
