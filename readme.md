@@ -36,6 +36,10 @@
 
 [제2회 PNU 오픈소스 SW 경진대회 수상자 인터뷰](https://youtu.be/VhREfG0jLSo)
 
+[제2회 PNU 오픈소스 SW 경진대회 안내](https://swedu.pusan.ac.kr/swedu/31630/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3dlZHUlMkY2OTA2JTJGODM1MDMyJTJGYXJ0Y2xWaWV3LmRvJTNG)
+
 <h3>창의융합 SW 해커톤 대회</h3>
 
 [제3회 창의융합 SW 해커톤 대회](https://youtu.be/EfEgTrm5_u4)
+
+[제3회 창의융합 SW 해커톤 사전설명회](https://youtu.be/fBcZZId8lYc)
