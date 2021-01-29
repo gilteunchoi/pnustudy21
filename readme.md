@@ -14,6 +14,8 @@
 
 [개발자 질문, "스터디 운영 어떻게 해야하죠?"](https://youtu.be/RdTpUfm2hSo)
 
+[넥슨의 트렐로 사용법 - 카트라이더:드리프트](https://trello.com/b/q4Tx1itu/%EC%B9%B4%ED%8A%B8%EB%9D%BC%EC%9D%B4%EB%8D%94-%EB%93%9C%EB%A6%AC%ED%94%84%ED%8A%B8)
+
 <h2>온라인 강의</h2>
 
 [JavaScript - 생활코딩](https://youtu.be/PZIPsKgWJiw)
