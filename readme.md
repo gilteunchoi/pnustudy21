@@ -4,7 +4,7 @@
 
 <h2>사전 준비</h2>
 
-[구글 회원가입](https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp)
+[구글 회원가입](https://www.youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU)
 
 [Github 회원가입](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
 
