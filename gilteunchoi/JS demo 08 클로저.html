@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<script type="text/javascript">
+	function outter(){
+		var title = 1;
+		return function(){
+			alert(title);
+		}
+	}
+	inner = outter();
+	inner();
+	function factory_movie(title){
+		return {
+			get_title : function(){
+				return title;
+			},
+			set_title : function(_title){
+				title = _title;
+			}
+		}
+	}
+	A = factory_movie('Ghost in the shell');
+	B = factory_movie('Matrix');
+	document.write(A.get_title());
+	B.set_title('The love');
+	document.write(B.get_title());
+</script>
+</body>
+</html>

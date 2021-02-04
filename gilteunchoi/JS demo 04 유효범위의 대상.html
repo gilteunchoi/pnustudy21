@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<script type="text/javascript">
+	// JS 에서는 함수에 대한 유효범위만 제공한다.
+	for(var i = 0; i < 1; i++){
+		var name = 'global';
+	}
+	alert(name);
+	//위 코드는 작동한다. 
+
+	// Java 에서는 블록 = {}에 대한 유효범위를 제공한다. 
+	for(var i = 0; i < 1; i++){
+		var name = 'local';
+	}
+	System.out.println(name); 
+	// 위 코드는 작동하지 않는다.
+</script>
+</body>
+</html>

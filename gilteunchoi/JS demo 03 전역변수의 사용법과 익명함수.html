@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<script type="text/javascript">
+	(function(){
+		var MYAPP = {}
+		MYAPP.A = {
+			'np' : null,
+			'nl' : null
+		}
+		MYAPP.B = {
+			'np' : null,
+			'nl' : null
+		}
+		MYAPP.A.np = 10;
+		MYAPP.B.np = 20;
+		function sum(){
+			return MYAPP.A.np + MYAPP.B.nl;
+		}
+		document.write(sum());
+	}())
+</script>
+</body>
+</html>

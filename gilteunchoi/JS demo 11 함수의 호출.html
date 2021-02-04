@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<script type="text/javascript">
+	o1 = {v1: 1, v2: 3, v3: 7, v4: 13};
+	function sum(){
+		var _sum = 0;
+		for(name in this){
+			_sum += this[name];
+		}
+		return _sum;
+	}
+	alert(sum.apply(o1));
+</script>
+</body>
+</html>
